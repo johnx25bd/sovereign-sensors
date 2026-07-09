@@ -77,6 +77,6 @@ The unabridged working history — draft snapshots, intermediate model runs, scr
 
 ## Citation
 
-> John X, *Sovereign Sensors: an investigation of factors pertaining to the governance of informational resources in the context of decentralization*, MSc dissertation, UCL Bartlett Centre for Advanced Spatial Analysis, 2019.
+> John Robison Hoopes, *Sovereign Sensors: an investigation of factors pertaining to the governance of informational resources in the context of decentralization*, MSc dissertation, UCL Bartlett Centre for Advanced Spatial Analysis, 2019.
 
 More of my current work on the spatial governance of intelligent machines is at [johnx.co](https://johnx.co).
